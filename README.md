@@ -35,5 +35,5 @@ By securing the third position, we now definitively prove the extent of our glor
 Participants -
 1. Thiruchalvan Thiagirajan
 2. Harshan J
-3. Thareesh Prabhakaran
+3. Thareesh Prabakaran
 4. Mohammed Rehan Tadpatri

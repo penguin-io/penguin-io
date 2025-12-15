@@ -9,5 +9,5 @@ Members -
 4. Jaefar Shameem
 5. Vinit Keshri
 6. Thiruchalvan Thiagirajan
-7. Thareesh Prabhakaran
+7. Thareesh Prabakaran
 8. Sahil Muhammed
